@@ -65,7 +65,7 @@
 
 ### Temas a abordar en el teórico
 
-- La idea es pasar al capitulo 2 de Wendland.
+- La idea es pasar al capitulo 2 de Wendland, pero depende como nos haya ido las primeras 3 semanas.
 
 ### Práctico
 
