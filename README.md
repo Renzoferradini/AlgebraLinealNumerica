@@ -61,7 +61,7 @@
 - Capitulo 1 de Wendland.
 - Capitulo 3 de Beilina.
 
-# Semana 4 (30 de marzo al 3 de abril)
+# Semana 4 (6 al 10 de abril)
 
 ### Temas a abordar en el teórico
 
