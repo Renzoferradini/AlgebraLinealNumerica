@@ -1,11 +1,10 @@
 # Semana 1 (16 al 20 de marzo)
 
-### Temas a abordar
+### Temas a abordar en el teórico
 
 - Introducción al curso y motivación.
-- Espacios vectoriales de dimension finita (repaso).
-- Espacios vectoriales con producto interno (repaso).
-- Instalación de Julia.
+- Espacios vectoriales de dimension finita. Ejemplos en Rn y Cn. Independencia lineal. Bases.
+- Espacios vectoriales con producto interno.
 
 ### Listas de ejercicios
 
@@ -14,3 +13,34 @@
 ### Referencias
 
 - Capitulo 1 de Wendland.
+
+# Semana 2 (23 al 27 de marzo)
+
+### Temas a abordar en el teórico
+
+- Continuación de los temas de la semana anterior.
+- Repaso de álgebra lineal.
+- Instalación de Julia.
+
+### Práctico
+
+- Primer lista de ejercicios de teórico.
+- Primera actividad.
+
+### Referencias
+
+- Capitulo 1 de Wendland.
+
+# Semana 3 (23 al 27 de marzo)
+
+### Temas a abordar
+
+- Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
+
+### Práctico
+
+### Referencias
+
+
+- Capitulo 2 de Wendland.
+
