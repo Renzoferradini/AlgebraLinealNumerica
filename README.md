@@ -3,9 +3,11 @@
 ### Temas a abordar en el teórico
 
 - Introducción al curso y motivación.
-- Repaso de álgebra lineal. 
-- Espacios vectoriales de dimension finita. Ejemplos en Rn y Cn. Independencia lineal. Bases.
-- Espacios vectoriales con producto interno.
+- Repaso de números complejos.
+- Repaso de polinomios.
+- Sistemas de ecuaciones lineales.
+- Matrices. Determinante.
+- Tipos básicos de matrices. Matrices en bloques.
 
 ### Listas de ejercicios
 
@@ -14,13 +16,14 @@
 ### Referencias
 
 - Capitulo 1 de Wendland.
+- Capitulo 1 de Beilina.
 
 # Semana 2 (23 al 27 de marzo)
 
 ### Temas a abordar en el teórico
 
-- Continuación de los temas de la semana anterior.
-- Repaso de álgebra lineal.
+- Repaso de espacios vectoriales. Ejemplos.
+- Bases. 
 - Instalación de Julia.
 
 ### Práctico
@@ -31,17 +34,40 @@
 ### Referencias
 
 - Capitulo 1 de Wendland.
+- Capitulo 2 de Beilina.
 
 # Semana 3 (30 de marzo al 3 de abril)
 
-### Temas a abordar
+### Temas a abordar en el teórico
 
+- Repaso de espacios vectoriales. Ejemplos.
+- Bases. 
+- Instalación de Julia.
 - Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
 
 ### Práctico
 
+- Segunda lista de ejercicios de teórico.
+
 ### Referencias
 
+- Capitulo 1 de Wendland.
+- Capitulo 3 de Beilina.
 
-- Capitulo 2 de Wendland.
+# Semana 4 (30 de marzo al 3 de abril)
 
+### Temas a abordar en el teórico
+
+- Repaso de espacios vectoriales. Ejemplos.
+- Bases. 
+- Instalación de Julia.
+- Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
+
+### Práctico
+
+- Segunda lista de ejercicios de teórico.
+
+### Referencias
+
+- Capitulo 1 de Wendland.
+- Capitulo 3 de Beilina.
