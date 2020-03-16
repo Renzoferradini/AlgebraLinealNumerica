@@ -6,7 +6,7 @@
 - Repaso de números complejos.
 - Repaso de polinomios.
 - Sistemas de ecuaciones lineales.
-- Matrices. Determinante.
+- Matrices. Determinantes.
 - Tipos básicos de matrices. Matrices en bloques.
 
 ### Listas de ejercicios
@@ -23,8 +23,11 @@
 ### Temas a abordar en el teórico
 
 - Repaso de espacios vectoriales. Ejemplos.
-- Bases. 
+- Bases. Independencia lineal.
+- Rango.
+- Cambio de base.
 - Instalación de Julia.
+- Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
 
 ### Práctico
 
@@ -40,14 +43,18 @@
 
 ### Temas a abordar en el teórico
 
-- Repaso de espacios vectoriales. Ejemplos.
-- Bases. 
-- Instalación de Julia.
-- Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
+- Espacios con producto interno.
+- Formula de Gram-Schmidt.
+- Desigualdad de Cauchy-Schwarz.
+- Subespacios.
+- Valores propios.
+- Descomposicion en valores singulares.
+- Matriz pseudo-inversa.
 
 ### Práctico
 
-- Segunda lista de ejercicios de teórico.
+- Primera lista de ejercicios de teórico.
+- Primera lista de ejercicios para resolver por computadora.
 
 ### Referencias
 
@@ -58,16 +65,11 @@
 
 ### Temas a abordar en el teórico
 
-- Repaso de espacios vectoriales. Ejemplos.
-- Bases. 
-- Instalación de Julia.
-- Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
+- La idea es pasar al capitulo 2 de Wendland.
 
 ### Práctico
 
-- Segunda lista de ejercicios de teórico.
 
 ### Referencias
 
-- Capitulo 1 de Wendland.
-- Capitulo 3 de Beilina.
+- Capitulo 2 de Wendland.
