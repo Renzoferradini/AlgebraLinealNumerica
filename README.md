@@ -3,6 +3,7 @@
 ### Temas a abordar en el teórico
 
 - Introducción al curso y motivación.
+- Repaso de álgebra lineal. 
 - Espacios vectoriales de dimension finita. Ejemplos en Rn y Cn. Independencia lineal. Bases.
 - Espacios vectoriales con producto interno.
 
