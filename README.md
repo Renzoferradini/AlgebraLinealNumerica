@@ -31,7 +31,7 @@
 
 - Capitulo 1 de Wendland.
 
-# Semana 3 (23 al 27 de marzo)
+# Semana 3 (30 de marzo al 3 de abril)
 
 ### Temas a abordar
 
