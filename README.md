@@ -1,3 +1,11 @@
+## HORARIOS
+
+
+|        |  Jueves | Viernes |
+| ------|-----|-----|
+|Teorico | 18:00 a 19:30| 19:30 a 21:00|
+|Practico | | 18:00 a 19:30|
+
 # Semana 1 (16 al 20 de marzo)
 
 ### Temas a abordar en el teórico
