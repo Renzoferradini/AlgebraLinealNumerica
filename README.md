@@ -26,6 +26,10 @@
 - Capitulo 1 de Wendland.
 - Capitulo 1 de Beilina.
 
+## Notas
+
+- https://nbviewer.jupyter.org/github/mforets/escritoire/blob/master/ALN/Introduccion.ipynb
+
 # Semana 2 (23 al 27 de marzo)
 
 ### Temas a abordar en el teórico
