@@ -27,7 +27,8 @@
 
 ## Notas
 
-- https://nbviewer.jupyter.org/github/mforets/escritoire/blob/master/ALN/Introduccion.ipynb
+- [Introduccion.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Introduccion.ipynb)
+- [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
 
 # Semana 2 (23 al 27 de marzo)
 
