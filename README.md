@@ -27,22 +27,20 @@
 
 ## Notas
 
-- https://nbviewer.jupyter.org/github/mforets/escritoire/blob/master/ALN/Introduccion.ipynb
+- [Introduccion.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Introduccion.ipynb)
+- [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
 
 # Semana 2 (23 al 27 de marzo)
 
 ### Temas a abordar en el teórico
 
-- Repaso de números complejos.
+- Simbolos de Landau. Costo computacional.
+- Cuerpos. Números complejos.
 - Repaso de polinomios.
 - Sistemas de ecuaciones lineales.
 - Matrices. Determinantes.
-- Repaso de espacios vectoriales. Ejemplos.
-- Bases. Independencia lineal.
-- Rango.
-- Cambio de base.
-- Instalación de Julia.
-- Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
+- Espacios vectoriales. Ejemplos.
+- Bases. Independencia lineal. Rango. Cambio de base.
 
 ### Práctico
 
@@ -53,6 +51,11 @@
 
 - Capitulo 1 de Wendland.
 - Capitulo 2 de Beilina.
+
+### Notas
+
+- [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
+- Espacios vectoriales
 
 # Semana 3 (30 de marzo al 3 de abril)
 
