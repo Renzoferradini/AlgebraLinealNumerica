@@ -34,16 +34,12 @@
 
 ### Temas a abordar en el teórico
 
-- Repaso de números complejos.
+- Cuerpos. Números complejos.
 - Repaso de polinomios.
 - Sistemas de ecuaciones lineales.
 - Matrices. Determinantes.
-- Repaso de espacios vectoriales. Ejemplos.
-- Bases. Independencia lineal.
-- Rango.
-- Cambio de base.
-- Instalación de Julia.
-- Primeros ejemplos en Julia: matrices y vectores, definición y operaciones. Bucles. Funciones.
+- Espacios vectoriales. Ejemplos.
+- Bases. Independencia lineal. Rango. Cambio de base.
 
 ### Práctico
 
