@@ -55,6 +55,11 @@
 - Capitulo 1 de Wendland.
 - Capitulo 2 de Beilina.
 
+### Notas
+
+- [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
+- Espacios vectoriales
+
 # Semana 3 (30 de marzo al 3 de abril)
 
 ### Temas a abordar en el teórico
