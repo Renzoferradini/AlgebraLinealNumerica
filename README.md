@@ -30,6 +30,10 @@
 - [Introduccion.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Introduccion.ipynb)
 - [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
 
+## Ejercicios
+
+- [Hoja 1](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja1.ipynb).
+
 # Semana 2 (23 al 27 de marzo)
 
 ### Temas a abordar en el teórico
