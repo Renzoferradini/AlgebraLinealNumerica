@@ -11,11 +11,10 @@
 ### Temas a abordar en el teórico
 
 - Introducción al curso y motivación.
-- Repaso de números complejos.
-- Repaso de polinomios.
-- Sistemas de ecuaciones lineales.
-- Matrices. Determinantes.
+- Notación.
 - Tipos básicos de matrices. Matrices en bloques.
+- Descripción de algoritmos elementales mediante pseudo-código.
+- Introducción básica a Julia: manejo de vectores y matrices, loops (while, for), condicionales (if), funciones.
 
 ### Listas de ejercicios
 
@@ -34,6 +33,10 @@
 
 ### Temas a abordar en el teórico
 
+- Repaso de números complejos.
+- Repaso de polinomios.
+- Sistemas de ecuaciones lineales.
+- Matrices. Determinantes.
 - Repaso de espacios vectoriales. Ejemplos.
 - Bases. Independencia lineal.
 - Rango.
