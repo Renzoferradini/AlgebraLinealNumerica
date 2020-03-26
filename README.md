@@ -34,6 +34,7 @@
 
 ### Temas a abordar en el teórico
 
+- Simbolos de Landau. Costo computacional.
 - Cuerpos. Números complejos.
 - Repaso de polinomios.
 - Sistemas de ecuaciones lineales.
