@@ -41,10 +41,6 @@
 - Simbolos de Landau. Costo computacional.
 - Cuerpos. Números complejos.
 - Repaso de polinomios.
-- Sistemas de ecuaciones lineales.
-- Matrices. Determinantes.
-- Espacios vectoriales. Ejemplos.
-- Bases. Independencia lineal. Rango. Cambio de base.
 
 ### Práctico
 
@@ -61,10 +57,18 @@
 - [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
 - Espacios vectoriales
 
+## Ejercicios
+
+- [Hoja 1](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja1.ipynb).
+
 # Semana 3 (30 de marzo al 3 de abril)
 
 ### Temas a abordar en el teórico
 
+- Sistemas de ecuaciones lineales.
+- Matrices. Determinantes.
+- Espacios vectoriales. Ejemplos.
+- Bases. Independencia lineal. Rango. Cambio de base.
 - Espacios con producto interno.
 - Formula de Gram-Schmidt.
 - Desigualdad de Cauchy-Schwarz.
@@ -87,7 +91,7 @@
 
 ### Temas a abordar en el teórico
 
-- La idea es pasar al capitulo 2 de Wendland, pero depende como nos haya ido las primeras 3 semanas.
+- A determinar. La idea es pasar al capitulo 2 de Wendland, pero depende como nos haya ido las primeras 3 semanas.
 
 ### Práctico
 
