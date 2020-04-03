@@ -35,8 +35,8 @@ Referencias:
 ### Temas a abordar en el teórico
 
 - Simbolos de Landau. Costo computacional.
-- Cuerpos. Números complejos.
-- Repaso de polinomios.
+- Fundamentos de programacion: bucles, iteracion. Pseudo-codigo.
+- Algoritmos elementales. Implmentacion en Julia.
 
 Referencias:
 
@@ -56,6 +56,9 @@ Referencias:
 
 ### Temas a abordar en el teórico
 
+- Cuerpos.
+- Números complejos.
+- Polinomios complejos.
 - Sistemas de ecuaciones lineales.
 - Matrices. Determinantes.
 
