@@ -16,21 +16,17 @@
 - Descripción de algoritmos elementales mediante pseudo-código.
 - Introducción básica a Julia: manejo de vectores y matrices, loops (while, for), condicionales (if), funciones.
 
-### Listas de ejercicios
-
-- Primer lista de ejercicios de teórico.
-
-### Referencias
+Referencias:
 
 - Capitulo 1 de Wendland.
 - Capitulo 1 de Beilina.
 
-## Notas
+### Notas
 
 - [Introduccion.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Introduccion.ipynb)
 - [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
 
-## Ejercicios
+### Practico
 
 - [Hoja 1](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja1.ipynb).
 
@@ -42,12 +38,7 @@
 - Cuerpos. Números complejos.
 - Repaso de polinomios.
 
-### Práctico
-
-- Primer lista de ejercicios de teórico.
-- Primera actividad.
-
-### Referencias
+Referencias:
 
 - Capitulo 1 de Wendland.
 - Capitulo 2 de Beilina.
@@ -57,7 +48,7 @@
 - [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
 - Espacios vectoriales
 
-## Ejercicios
+### Práctico
 
 - [Hoja 1](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja1.ipynb).
 
@@ -67,6 +58,24 @@
 
 - Sistemas de ecuaciones lineales.
 - Matrices. Determinantes.
+
+Referencias:
+
+- Capitulo 1 de Wendland.
+- Capitulo 3 de Beilina.
+
+### Notas
+
+- [Cuerpos.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Cuerpos.ipynb)
+
+### Práctico
+
+Hoja 2.
+
+# Semana 4 (13 al 17 de abril)
+
+### Temas a abordar en el teórico
+
 - Espacios vectoriales. Ejemplos.
 - Bases. Independencia lineal. Rango. Cambio de base.
 - Espacios con producto interno.
@@ -77,25 +86,17 @@
 - Descomposicion en valores singulares.
 - Matriz pseudo-inversa.
 
-### Práctico
-
-- Primera lista de ejercicios de teórico.
-- Primera lista de ejercicios para resolver por computadora.
-
-### Referencias
-
-- Capitulo 1 de Wendland.
-- Capitulo 3 de Beilina.
-
-# Semana 4 (13 al 17 de abril)
-
-### Temas a abordar en el teórico
-
-- A determinar. La idea es pasar al capitulo 2 de Wendland, pero depende como nos haya ido las primeras 3 semanas.
-
-### Práctico
-
-
-### Referencias
+Referencias:
 
 - Capitulo 2 de Wendland.
+- Capitulo 2 de Beilina.
+
+
+### Notas
+
+- Espacios vectoriales.
+
+### Práctico
+
+Hoja 2.
+
