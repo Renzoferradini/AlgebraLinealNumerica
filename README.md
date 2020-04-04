@@ -71,6 +71,7 @@ Referencias:
 ### Notas
 
 - [Cuerpos.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Cuerpos.ipynb)
+- Espacios vectoriales.
 
 ### Práctico
 
@@ -99,6 +100,7 @@ Referencias:
 ### Notas
 
 - Espacios vectoriales.
+- Matrices.
 
 ### Práctico
 
