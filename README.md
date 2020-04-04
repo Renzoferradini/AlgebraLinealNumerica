@@ -59,8 +59,9 @@ Referencias:
 - Cuerpos.
 - Números complejos.
 - Polinomios complejos.
-- Sistemas de ecuaciones lineales.
-- Matrices. Determinantes.
+- Espacios vectoriales. Ejemplos.
+- Espacios con producto interno.
+- Bases. Independencia lineal.
 
 Referencias:
 
@@ -79,9 +80,9 @@ Hoja 2.
 
 ### Temas a abordar en el teórico
 
-- Espacios vectoriales. Ejemplos.
-- Bases. Independencia lineal. Rango. Cambio de base.
-- Espacios con producto interno.
+- Sistemas de ecuaciones lineales.
+- Matrices. Determinantes.
+- Rango. Cambio de base.
 - Formula de Gram-Schmidt.
 - Desigualdad de Cauchy-Schwarz.
 - Subespacios.
