@@ -21,6 +21,12 @@ Referencias:
 - Capitulo 1 de Wendland.
 - Capitulo 1 de Beilina.
 
+Videos:
+
+-
+- 
+
+
 ### Notas
 
 - [Introduccion.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Introduccion.ipynb)
