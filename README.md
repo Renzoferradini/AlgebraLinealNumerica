@@ -21,6 +21,12 @@ Referencias:
 - Capitulo 1 de Wendland.
 - Capitulo 1 de Beilina.
 
+Videos:
+
+-
+- 
+
+
 ### Notas
 
 - [Introduccion.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Introduccion.ipynb)
@@ -59,8 +65,9 @@ Referencias:
 - Cuerpos.
 - Números complejos.
 - Polinomios complejos.
-- Sistemas de ecuaciones lineales.
-- Matrices. Determinantes.
+- Espacios vectoriales. Ejemplos.
+- Espacios con producto interno.
+- Bases. Independencia lineal.
 
 Referencias:
 
@@ -70,6 +77,7 @@ Referencias:
 ### Notas
 
 - [Cuerpos.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Cuerpos.ipynb)
+- Espacios vectoriales.
 
 ### Práctico
 
@@ -79,9 +87,9 @@ Hoja 2.
 
 ### Temas a abordar en el teórico
 
-- Espacios vectoriales. Ejemplos.
-- Bases. Independencia lineal. Rango. Cambio de base.
-- Espacios con producto interno.
+- Sistemas de ecuaciones lineales.
+- Matrices. Determinantes.
+- Rango. Cambio de base.
 - Formula de Gram-Schmidt.
 - Desigualdad de Cauchy-Schwarz.
 - Subespacios.
@@ -98,6 +106,7 @@ Referencias:
 ### Notas
 
 - Espacios vectoriales.
+- Matrices.
 
 ### Práctico
 
