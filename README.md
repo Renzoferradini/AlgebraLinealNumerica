@@ -112,7 +112,7 @@ Referencias:
 
 Hoja 2.
 
-# Semana 5 (20 al 24 de abril)
+# Semana 5 ()
 
 ### Temas a abordar en el teórico
 
@@ -129,7 +129,7 @@ Referencias:
 ### Práctico
 
 
-# Semana 6 (20 al 24 de abril)
+# Semana 6 ()
 
 ### Temas a abordar en el teórico
 
@@ -145,7 +145,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 7 (20 al 24 de abril)
+# Semana 7 ()
 
 ### Temas a abordar en el teórico
 
@@ -161,7 +161,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 8 (20 al 24 de abril)
+# Semana 8 ()
 
 ### Temas a abordar en el teórico
 
@@ -177,7 +177,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 9 (20 al 24 de abril)
+# Semana 9 ()
 
 ### Temas a abordar en el teórico
 
@@ -193,7 +193,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 10 (20 al 24 de abril)
+# Semana 10 ()
 
 ### Temas a abordar en el teórico
 
@@ -209,7 +209,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 11 (20 al 24 de abril)
+# Semana 11 ()
 
 ### Temas a abordar en el teórico
 
@@ -225,7 +225,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 12 (20 al 24 de abril)
+# Semana 12 ()
 
 ### Temas a abordar en el teórico
 
@@ -241,7 +241,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 13 (20 al 24 de abril)
+# Semana 13 ()
 
 ### Temas a abordar en el teórico
 
@@ -257,7 +257,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 14 (20 al 24 de abril)
+# Semana 14 ()
 
 ### Temas a abordar en el teórico
 
@@ -273,7 +273,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 15 (20 al 24 de abril)
+# Semana 15 ()
 
 ### Temas a abordar en el teórico
 
@@ -289,7 +289,7 @@ Referencias:
 
 ### Práctico
 
-# Semana 16 (20 al 24 de abril)
+# Semana 16 ()
 
 ### Temas a abordar en el teórico
 
