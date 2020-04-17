@@ -57,7 +57,7 @@ Videos:
 ### Notas
 
 - [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
-- Espacios vectoriales
+
 
 ### Práctico
 
@@ -88,7 +88,7 @@ Videos:
 ### Notas
 
 - [Cuerpos.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Cuerpos.ipynb)
-- Espacios vectoriales.
+- [Espacios vectoriales](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/EspaciosVectoriales.ipynb).
 
 ### Práctico
 
@@ -104,9 +104,12 @@ Hoja 2.
 - p-normas de vectores. Equivalencia. Propiedades.
 - Norma inducida.
 
-- Sistemas de ecuaciones lineales. Matrices. Determinantes.
+- Matrices no singulares.
 - Rango. Cambio de base. Subespacios.
-- Formula de Gram-Schmidt. Costo computacional. Implementacion.
+- Bases ortogonales. Formula de Gram-Schmidt. Costo computacional.
+- Descomposicion en valores singulares.
+- Matriz pseudo-inversa.
+- Sistemas de ecuaciones lineales. Matrices. Determinantes.
 - Problema de valores propios.
 
 Referencias:
@@ -121,7 +124,8 @@ Videos:
 
 ### Notas
 
-- Espacios vectoriales.
+- [Espacios vectoriales](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/EspaciosVectoriales.ipynb).
+- Matrices
 
 ### Práctico
 
@@ -131,8 +135,7 @@ Hoja 2.
 
 ### Temas a abordar en el teórico
 
-- Descomposicion en valores singulares.
-- Matriz pseudo-inversa.
+
 
 Referencias:
 
