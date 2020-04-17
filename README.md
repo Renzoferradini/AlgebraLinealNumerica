@@ -87,26 +87,26 @@ Hoja 2.
 
 ### Temas a abordar en el teórico
 
-- Sistemas de ecuaciones lineales.
-- Matrices. Determinantes.
-- Rango. Cambio de base.
-- Formula de Gram-Schmidt.
-- Desigualdad de Cauchy-Schwarz.
-- Subespacios.
-- Valores propios.
-- Descomposicion en valores singulares.
-- Matriz pseudo-inversa.
+- Espacios con producto interno (cont.).
+- Espacios normados. Propiedades y ejemplos.
+- Desigualdades de Cauchy-Schwarz, Young, Holder, Minkowski.
+- p-normas de vectores. Equivalencia. Propiedades.
+- Norma inducida.
+
+- Sistemas de ecuaciones lineales. Matrices. Determinantes.
+- Rango. Cambio de base. Subespacios.
+- Formula de Gram-Schmidt. Costo computacional. Implementacion.
+- Problema de valores propios.
 
 Referencias:
 
+- Capitulo 1 de Wendland.
 - Capitulo 2 de Wendland.
 - Capitulo 2 de Beilina.
-
 
 ### Notas
 
 - Espacios vectoriales.
-- Matrices.
 
 ### Práctico
 
@@ -116,7 +116,8 @@ Hoja 2.
 
 ### Temas a abordar en el teórico
 
-
+- Descomposicion en valores singulares.
+- Matriz pseudo-inversa.
 
 Referencias:
 
