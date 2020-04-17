@@ -11,7 +11,6 @@
 ### Temas a abordar en el teórico
 
 - Introducción al curso y motivación.
-- Notación.
 - Tipos básicos de matrices. Matrices en bloques.
 - Descripción de algoritmos elementales mediante pseudo-código.
 - Introducción básica a Julia: manejo de vectores y matrices, loops (while, for), condicionales (if), funciones.
@@ -23,9 +22,10 @@ Referencias:
 
 Videos:
 
-- 
-- 
-
+- [Clase 1 teorico](https://drive.google.com/open?id=1Qz0ES33rqZpxhe2Bdos8vBlJ26WgLJzQ)
+- [Clase 1 practico](https://drive.google.com/open?id=1WsWrAbTklI8eE__eUgdWXOzJJjogo2jy)
+- [Clase 2 teorico](https://drive.google.com/open?id=1tbcR5DxEAaCeq-4JshL7-jQo95uIYd-R)
+- [Video de instalacion de Julia y de IJulia](https://drive.google.com/open?id=1YUOHkJ_bRHPGPKyxdxRffUzsSaynfvBo), para los Jupyter notebooks.
 
 ### Notas
 
@@ -49,10 +49,15 @@ Referencias:
 - Capitulo 1 de Wendland.
 - Capitulo 2 de Beilina.
 
+Videos:
+
+- [Clase 3 teorico](https://drive.google.com/open?id=19UxPXOdQwRqAbGdYMMpowt97S8slIms4)
+- [Clase 4 teorico](https://drive.google.com/open?id=1jB4sPi35WJZAzmwcx0nZZMot6yrj4ha4)
+
 ### Notas
 
 - [Preliminares.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Preliminares.ipynb)
-- Espacios vectoriales
+
 
 ### Práctico
 
@@ -74,10 +79,16 @@ Referencias:
 - Capitulo 1 de Wendland.
 - Capitulo 3 de Beilina.
 
+Videos:
+
+- [Clase 5 Teorico](https://drive.google.com/open?id=1DBl_yik38JJ7DSHsgmFzMMvkPkd9OWKE)
+- [Clase 6 Teorico](https://drive.google.com/open?id=1Fyi4P5eZURc00P-wc4R5GKsbNyofCaSs)
+- [Clase 7 Teorico](https://drive.google.com/open?id=1_yP-Vqtao1EQ2pj2LqNIy7Qp3XIrLEfo)
+
 ### Notas
 
 - [Cuerpos.ipynb](https://nbviewer.jupyter.org/github/mforets/AlgebraLinealNumerica/blob/master/Notas/Cuerpos.ipynb)
-- Espacios vectoriales.
+- [Espacios vectoriales](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/EspaciosVectoriales.ipynb).
 
 ### Práctico
 
@@ -87,26 +98,34 @@ Hoja 2.
 
 ### Temas a abordar en el teórico
 
-- Sistemas de ecuaciones lineales.
-- Matrices. Determinantes.
-- Rango. Cambio de base.
-- Formula de Gram-Schmidt.
-- Desigualdad de Cauchy-Schwarz.
-- Subespacios.
-- Valores propios.
+- Espacios con producto interno (cont.).
+- Espacios normados. Propiedades y ejemplos.
+- Desigualdades de Cauchy-Schwarz, Young, Holder, Minkowski.
+- p-normas de vectores. Equivalencia. Propiedades.
+- Norma inducida.
+
+- Matrices no singulares.
+- Rango. Cambio de base. Subespacios.
+- Bases ortogonales. Formula de Gram-Schmidt. Costo computacional.
 - Descomposicion en valores singulares.
 - Matriz pseudo-inversa.
+- Sistemas de ecuaciones lineales. Matrices. Determinantes.
+- Problema de valores propios.
 
 Referencias:
 
+- Capitulo 1 de Wendland.
 - Capitulo 2 de Wendland.
 - Capitulo 2 de Beilina.
 
+Videos:
+
+- [Clase 8 Teorico](https://drive.google.com/open?id=1gznSJ2U6mf_VO7ltlgIyYXCLKGiDoQbw)
 
 ### Notas
 
-- Espacios vectoriales.
-- Matrices.
+- [Espacios vectoriales](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/EspaciosVectoriales.ipynb).
+- Matrices
 
 ### Práctico
 
