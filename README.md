@@ -92,7 +92,7 @@ Videos:
 
 ### Práctico
 
-Hoja 2.
+- [Hoja 1](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja1/Hoja1.ipynb)
 
 # Semana 4 (13 al 17 de abril)
 
@@ -121,6 +121,8 @@ Referencias:
 Videos:
 
 - [Clase 8 Teorico](https://drive.google.com/open?id=1gznSJ2U6mf_VO7ltlgIyYXCLKGiDoQbw)
+- [Clase 9 Teorico](https://drive.google.com/file/d/1hIb32w20TJlMfcdLb6Lfq8nG44xJ-2Gj/view?usp=sharing)
+- [Clase 10 Teorico](https://drive.google.com/file/d/1NudkSrYo0Hld0bxn9LxGz8EM-0NIt3Pi/view?usp=sharing)
 
 ### Notas
 
@@ -129,26 +131,9 @@ Videos:
 
 ### Práctico
 
-Hoja 2.
+- [Hoja 2](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja2/Hoja2.ipynb)
 
-# Semana 5 ()
-
-### Temas a abordar en el teórico
-
-
-
-Referencias:
-
-
-
-### Notas
-
-
-
-### Práctico
-
-
-# Semana 6 ()
+# Semana 5 (20 al 24 de abril)
 
 ### Temas a abordar en el teórico
 
@@ -164,7 +149,10 @@ Referencias:
 
 ### Práctico
 
-# Semana 7 ()
+- [Hoja 2](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja2/Hoja2.ipynb)
+
+
+# Semana 6 (27 de abril al 1o de mayo)
 
 ### Temas a abordar en el teórico
 
@@ -180,7 +168,10 @@ Referencias:
 
 ### Práctico
 
-# Semana 8 ()
+- [Hoja 3](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja3/Hoja3.ipynb)
+
+
+# Semana 7 (4 de mayo al 8 de mayo)
 
 ### Temas a abordar en el teórico
 
@@ -196,7 +187,9 @@ Referencias:
 
 ### Práctico
 
-# Semana 9 ()
+- [Hoja 4](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja4/Hoja4.ipynb)
+
+# Semana 8 (11 de mayo al 15 de mayo)
 
 ### Temas a abordar en el teórico
 
@@ -208,6 +201,22 @@ Referencias:
 
 ### Notas
 
+
+
+### Práctico
+
+- [Hoja 4](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja4/Hoja4.ipynb)
+
+# Semana 9 (18 de mayo al 22 de mayo)
+
+### Temas a abordar en el teórico
+
+
+Referencias:
+
+
+
+### Notas
 
 
 ### Práctico
