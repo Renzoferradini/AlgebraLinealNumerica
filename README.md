@@ -101,7 +101,7 @@ Videos:
 - Espacios con producto interno (cont.).
 - Espacios normados. Propiedades y ejemplos.
 - Desigualdades de Cauchy-Schwarz, Young, Holder, Minkowski.
-- p-normas de vectores. Equivalencia. Propiedades.
+- p-normas de vectores. Teorema de equivalencia. Comparacion entre p-normas.
 
 Referencias:
 
