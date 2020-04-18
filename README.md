@@ -92,7 +92,7 @@ Videos:
 
 ### Práctico
 
-Hoja 2.
+- [Hoja 1](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja1/Hoja1.ipynb)
 
 # Semana 4 (13 al 17 de abril)
 
@@ -101,16 +101,7 @@ Hoja 2.
 - Espacios con producto interno (cont.).
 - Espacios normados. Propiedades y ejemplos.
 - Desigualdades de Cauchy-Schwarz, Young, Holder, Minkowski.
-- p-normas de vectores. Equivalencia. Propiedades.
-- Norma inducida.
-
-- Matrices no singulares.
-- Rango. Cambio de base. Subespacios.
-- Bases ortogonales. Formula de Gram-Schmidt. Costo computacional.
-- Descomposicion en valores singulares.
-- Matriz pseudo-inversa.
-- Sistemas de ecuaciones lineales. Matrices. Determinantes.
-- Problema de valores propios.
+- p-normas de vectores. Teorema de equivalencia. Comparacion entre p-normas.
 
 Referencias:
 
@@ -121,17 +112,45 @@ Referencias:
 Videos:
 
 - [Clase 8 Teorico](https://drive.google.com/open?id=1gznSJ2U6mf_VO7ltlgIyYXCLKGiDoQbw)
+- [Clase 9 Teorico](https://drive.google.com/file/d/1hIb32w20TJlMfcdLb6Lfq8nG44xJ-2Gj/view?usp=sharing)
+- [Clase 10 Teorico](https://drive.google.com/file/d/1NudkSrYo0Hld0bxn9LxGz8EM-0NIt3Pi/view?usp=sharing)
 
 ### Notas
 
 - [Espacios vectoriales](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/EspaciosVectoriales.ipynb).
-- Matrices
+- [Matrices](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/Matrices.ipynb)
 
 ### Práctico
 
-Hoja 2.
+- [Hoja 2](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja2/Hoja2.ipynb)
 
-# Semana 5 ()
+# Semana 5 (20 al 24 de abril)
+
+### Temas a abordar en el teórico
+
+- Bases ortogonales. Formula de Gram-Schmidt. Costo computacional.
+- Norma inducida en matrices. Propiedades.
+- Matrices no singulares.
+- Descomposicion en valores singulares.
+- Matriz pseudo-inversa.
+- Numero de condicion.
+- Punto flotante.
+
+Referencias:
+
+- Capitulo 2 de Wendland.
+
+### Notas
+
+- [Matrices](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/Matrices.ipynb)
+- Punto flotante
+
+### Práctico
+
+- [Hoja 2](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja2/Hoja2.ipynb)
+
+
+# Semana 6 (27 de abril al 1o de mayo)
 
 ### Temas a abordar en el teórico
 
@@ -143,12 +162,14 @@ Referencias:
 
 ### Notas
 
-
+- Metodos directos.
 
 ### Práctico
 
+- [Hoja 3](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja3/Hoja3.ipynb)
 
-# Semana 6 ()
+
+# Semana 7 (4 de mayo al 8 de mayo)
 
 ### Temas a abordar en el teórico
 
@@ -160,14 +181,33 @@ Referencias:
 
 ### Notas
 
+- Metodos directos.
+
+### Práctico
+
+- [Hoja 4](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja4/Hoja4.ipynb)
+
+# Semana 8 (11 de mayo al 15 de mayo)
+
+### Temas a abordar en el teórico
+
+
+
+Referencias:
+
+- Metodos iterativos.
+
+### Notas
+
 
 
 ### Práctico
 
-# Semana 7 ()
+- [Hoja 4](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Ejercicios/Hoja4/Hoja4.ipynb)
+
+# Semana 9 (18 de mayo al 22 de mayo)
 
 ### Temas a abordar en el teórico
-
 
 
 Referencias:
@@ -176,39 +216,7 @@ Referencias:
 
 ### Notas
 
-
-
-### Práctico
-
-# Semana 8 ()
-
-### Temas a abordar en el teórico
-
-
-
-Referencias:
-
-
-
-### Notas
-
-
-
-### Práctico
-
-# Semana 9 ()
-
-### Temas a abordar en el teórico
-
-
-
-Referencias:
-
-
-
-### Notas
-
-
+- Metodos iterativos.
 
 ### Práctico
 
