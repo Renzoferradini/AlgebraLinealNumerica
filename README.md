@@ -118,7 +118,7 @@ Videos:
 ### Notas
 
 - [Espacios vectoriales](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/EspaciosVectoriales.ipynb).
-- Matrices
+- [Matrices](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/Matrices.ipynb)
 
 ### Práctico
 
@@ -142,7 +142,8 @@ Referencias:
 
 ### Notas
 
-
+- [Matrices](https://github.com/mforets/AlgebraLinealNumerica/blob/master/Notas/Matrices.ipynb)
+- Punto flotante
 
 ### Práctico
 
@@ -161,7 +162,7 @@ Referencias:
 
 ### Notas
 
-
+- Metodos directos.
 
 ### Práctico
 
@@ -180,7 +181,7 @@ Referencias:
 
 ### Notas
 
-
+- Metodos directos.
 
 ### Práctico
 
@@ -194,7 +195,7 @@ Referencias:
 
 Referencias:
 
-
+- Metodos iterativos.
 
 ### Notas
 
@@ -215,6 +216,7 @@ Referencias:
 
 ### Notas
 
+- Metodos iterativos.
 
 ### Práctico
 
