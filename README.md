@@ -102,15 +102,6 @@ Videos:
 - Espacios normados. Propiedades y ejemplos.
 - Desigualdades de Cauchy-Schwarz, Young, Holder, Minkowski.
 - p-normas de vectores. Equivalencia. Propiedades.
-- Norma inducida.
-
-- Matrices no singulares.
-- Rango. Cambio de base. Subespacios.
-- Bases ortogonales. Formula de Gram-Schmidt. Costo computacional.
-- Descomposicion en valores singulares.
-- Matriz pseudo-inversa.
-- Sistemas de ecuaciones lineales. Matrices. Determinantes.
-- Problema de valores propios.
 
 Referencias:
 
@@ -137,11 +128,17 @@ Videos:
 
 ### Temas a abordar en el teórico
 
-
+- Bases ortogonales. Formula de Gram-Schmidt. Costo computacional.
+- Norma inducida en matrices. Propiedades.
+- Matrices no singulares.
+- Descomposicion en valores singulares.
+- Matriz pseudo-inversa.
+- Numero de condicion.
+- Punto flotante.
 
 Referencias:
 
-
+- Capitulo 2 de Wendland.
 
 ### Notas
 
